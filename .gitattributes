@@ -1,0 +1,2 @@
+small_barcodes_pbmc_1k_v2_S1_L002_R1_001.fastq filter=lfs diff=lfs merge=lfs -text
+small_cDNA_Sequences_pbmc_1k_v2_S1_L002_R2_001.fastq filter=lfs diff=lfs merge=lfs -text
